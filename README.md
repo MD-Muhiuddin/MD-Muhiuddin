@@ -1,162 +1,91 @@
-# 💫 About Me
+# 👨‍💻 MD Muhiuddin — Software QA Engineer
 
-Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engineer**. I specialize in delivering high-quality web and mobile apps through meticulous testing and automation to boost performance and UX.
-
----
-
-## 🚀 Skills
-✅ Mobile & Web Automation (Native + Hybrid) &nbsp;  
-✅ API Testing (Manual + Automation) &nbsp;  
-✅ Basic Networking & VAPT &nbsp;  
-✅ Strong Problem Solving  
+Passionate **Software Quality Assurance (SQA) Engineer** with expertise in delivering high-quality **web and mobile applications** through **manual + automation testing**, strong debugging, and problem-solving skills. I focus on performance, UX, and system security.
 
 ---
 
-## 🌐 Connect with Me
+## 🧩 Core Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/)
-[![Appium Notes](https://img.shields.io/badge/-Appium_Notes-2f2f2f?style=flat-square)](https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19)
-[![Linux Essentials](https://img.shields.io/badge/-Linux_Essentials-2f2f2f?style=flat-square)](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
+- ✅ Mobile & Web Automation (Native + Hybrid)  
+- ✅ API Testing (Manual + Automation)  
+- ✅ VAPT on Web & Mobile Applications  
+- ✅ Networking Basics & Recon Tools  
+- ✅ Strong Logical Thinking & Debugging
 
 ---
 
-## 🧠 Language & Tools
+## 🧠 Languages & Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## ⚙️ Tools & Technologies
+
+### 🔬 QA Automation
+- **Selenium**, **Appium**, **Postman**, **Playwright**
+
+### 🧪 Performance & Monitoring
+- **k6**, **Grafana**, **Pytest**
+
+### 🛠 OS & Virtualization
+- **Linux**, **Windows**, **Kali**, **Raspberry Pi OS**, **Red Hat**  
+- **Docker**, **VirtualBox**, **VMware**
+
+### 🔐 VAPT Tools
+- **Nmap**, **Burp Suite**, **Metasploit**
+
+### 🌐 Networking
+- **MikroTik**, **Wireshark**, **GNS3**, **Zabbix**
+
+---
+
+## 🛠 My Projects
+
+### 🔍 Recon & Scripting
+| Project | Description |
+|--------|-------------|
+| [Network Scanner](https://github.com/MuHIUDDIn98/Py_Networking) | Scan live hosts using Scapy |
+| [Subdomain Enum](https://github.com/MuHIUDDIn98/SubDomainEnamuration.git) | Subdomain brute-force tool |
+| [IP Geolocation](https://github.com/MuHIUDDIn98/IP_Geolocation_finder.git) | IP-based geolocation finder |
+| [Image Resizer](https://github.com/MuHIUDDIn98/Image_resizer) | Python script to resize and convert images |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuHIUDDIn98&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHIUDDIn98&theme=dark&hide_border=false&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuHIUDDIn98&theme=dark&hide_border=false)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHIUDDIn98&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🔍 Recon Projects
+## 📚 Notes & Learning Resources
 
-| 🧩 Project | 🔎 Description |
-|-----------|----------------|
-| [Network Scanner](https://github.com/MuHIUDDIn98/Py_Networking) | Live host scan with Scapy |
-| [Subdomain Enum](https://github.com/MuHIUDDIn98/SubDomainEnamuration.git) | Brute-force DNS & subdomain enum |
-| [IP Geolocation](https://github.com/MuHIUDDIn98/IP_Geolocation_finder.git) | Get geo info via IPInfo API |
+- 📘 [Mobile Automation with Appium](https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19)  
+- 🐧 [Linux Essentials](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
 
 ---
 
-## 🛠️ Python Tools
+## 🧠 Coding & Cybersecurity
 
-| 🔧 Tool | 💡 Purpose |
-|--------|------------|
-| [Image Resizer](https://github.com/MuHIUDDIn98/Image_resizer) | Resize + format convert |
-
----
-
-# 🧰 Tools I Use
-
-## 🔬 Automation
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="70" height="70" alt="Selenium"/><br>Selenium</td>
-    <td align="center"><img src="https://pbs.twimg.com/profile_images/1257663811076542466/0KVJyYNC_400x400.jpg" width="70" height="70" alt="Appium"/><br>Appium</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="Postman"/><br>Postman</td>
-    <td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="70" height="70" alt="Playwright"/><br>Playwright</td>
-  </tr>
-</table>
-
-## 🧪 Testing & Monitoring Tools
-
-<table>
-  <tr>
-    <td align="center"><img src="https://gitlab.com/uploads/-/system/project/avatar/26797499/logo.png" width="70" height="70" alt="k6"/><br>k6</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="70" height="70" alt="Grafana"/><br>Grafana</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="70" height="70" alt="Pytest"/><br>Pytest</td>
-  </tr>
-</table>
-
-## 🖥 OS
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux"/><br>Linux</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="70" height="70" alt="Kali Linux"/><br>Kali</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_OS_logo.png" width="70" height="70" alt="Raspberry Pi OS"/><br>Raspberry Pi OS</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjRY_QyL-L9_3z57nYliIFwQLw3E8VUViOw&s" width="70" height="70" alt="Red Hat"/><br>Red Hat</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70" height="70" alt="Windows"/><br>Windows</td>
-  </tr>
-</table>
-
-## 🧳 Virtualization
-
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/VirtualBox_logo.png" width="70" height="70" alt="VirtualBox"/><br>VirtualBox</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/VMware_logo.svg" width="70" height="70" alt="VMware"/><br>VMware</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"/><br>Docker</td>
-  </tr>
-</table>
-
-## 🔐 VAPT
-
-<table>
-  <tr>
-    <td align="center"><img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="70" height="70" alt="Nmap"/><br>Nmap</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" width="70" height="70" alt="Burp Suite"/><br>Burp Suite</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2dxapGsyIN1n-GMcfMVhivjb8YuufoaJvw&s" width="70" height="70" alt="Metasploit"/><br>Metasploit</td>
-  </tr>
-</table>
-
+- LeetCode: [muhiuddinanik](https://leetcode.com/muhiuddinanik/)  
+- Codeforces: [anik98](https://codeforces.com/profile/anik98)  
+- Code360: [Muhiuddin](https://www.naukri.com/code360/profile/Muhiuddin)  
+- TryHackMe: [falcon.anik2](https://tryhackme.com/p/falcon.anik2)  
+  ![TryHackMe Stats](https://tryhackme-images.s3.amazonaws.com/user/falcon.anik2.png)
 
 ---
 
-## 🌐 Networking Skills
+## 💡 Quotes I Believe In
 
-| Tool | Description |
-|------|-------------|
-| <img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177" width="50" height="50"/> <br> **MikroTik** | RouterOS, CLI, Winbox |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="50" height="50"/> <br> **Zabbix** | Monitoring & Alerting |
-| <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> <br> **Nmap** | Host & port discovery |
-| <img src="https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png" width="50" height="50"/> <br> **Wireshark** | Deep packet analysis |
-| <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png" width="50" height="50"/> <br> **GNS3** | Network simulation |
+> “Programming isn’t about knowing everything — it’s about thinking clearly and solving problems.”  
+> “Tutorials are a starting point. Real growth comes from debugging, system design, and building.”
 
 ---
 
-## 🧪 Coding Platforms
+## 🤝 Let’s Connect
 
-- [LeetCode](https://leetcode.com/muhiuddinanik/)
-- [Codeforces](https://codeforces.com/profile/anik98)
-- [Coding Ninjas](https://www.naukri.com/code360/profile/Muhiuddin)
-- [TryHackMe](https://tryhackme.com/p/falcon.anik2)
-
-## 🧠 Cybersecurity Learning Journey on TryHackMe
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Visit_Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/falcon.anik2)
-
-![TryHackMe Stats](https://tryhackme-images.s3.amazonaws.com/user/falcon.anik2.png)
-
----
-
-## 💡 Philosophy
-
-> *Programming isn’t about knowing everything.*  
-> It’s about **thinking clearly**, **solving problems**, and **building tools that work**.
-
----
-
-## 🚫 Avoiding the Tutorial Trap
-
-> *Tutorials are a starting point — not the destination.*  
-> Real learning = debugging + system design + hands-on tools.
-
----
-
-## 🤝 Let's Collaborate!
-
-🚀 Building meaningful tools and solving real problems excites me.  
-📬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/)
-
----
+- [LinkedIn](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/)
