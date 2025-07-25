@@ -6,15 +6,16 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ## 🧩 Core Skills
 
-- ✅ Mobile & Web Automation (Native + Hybrid)  
-- ✅ API Testing (Manual + Automation)  
-- ✅ VAPT on Web & Mobile Applications  
-- ✅ Networking Basics & Recon Tools  
-- ✅ Strong Logical Thinking & Debugging
+-  Mobile & Web Automation (Native + Hybrid)  
+-  API Testing (Manual + Automation)  
+-  VAPT on Web & Mobile Applications  
+-  Networking Basics & Recon Tools  
+-  Strong Logical Thinking & Debugging
+-  Project Management
 
 ---
 
-## 🧠 Languages & Tools
+##  Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -55,17 +56,17 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuHIUDDIn98&theme=dark&hide_border=false)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHIUDDIn98&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 📚 Notes & Learning Resources
+##  Notes & Learning Resources
 
-- 📘 [Mobile Automation with Appium](https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19)  
-- 🐧 [Linux Essentials](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
+-  [Mobile Automation with Appium](https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19)  
+-  [Linux Essentials](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
 
 ---
 
@@ -79,13 +80,13 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ---
 
-## 💡 Quotes I Believe In
+##  Quotes I Believe In
 
 > “Programming isn’t about knowing everything — it’s about thinking clearly and solving problems.”  
 > “Tutorials are a starting point. Real growth comes from debugging, system design, and building.”
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/)
