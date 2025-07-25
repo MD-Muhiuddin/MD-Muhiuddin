@@ -45,7 +45,47 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 | <img src="https://miro.medium.com/v2/resize:fit:700/0*u073lMBaEQWkfzYz.jpeg" width="90" height="90" alt="Image">| ![Grafana](https://img.icons8.com/color/48/grafana.png) | ![Pytest](https://img.icons8.com/color/48/python.png) |
 
 ---
+<table>
+  <tr>
+    <!-- QA Automation Column -->
+    <td valign="top" width="50%">
+      <h3>🧪 QA Automation</h3>
+      <table>
+        <tr>
+          <th>Selenium</th>
+          <th>Appium</th>
+          <th>Postman</th>
+          <th>Playwright</th>
+        </tr>
+        <tr>
+          <td><img src="https://img.icons8.com/color/90/selenium-test-automation.png" width="60" height="60" alt="Selenium"/></td>
+          <td><img src="https://img.icons8.com/fluency/90/appium.png" width="60" height="60" alt="Appium"/></td>
+          <td><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" width="60" height="60" alt="Postman"/></td>
+          <td><img src="https://miro.medium.com/v2/resize:fit:700/0*u073lMBaEQWkfzYz.jpeg" width="60" height="60" alt="Playwright"/></td>
+        </tr>
+      </table>
+    </td>
 
+    <!-- Performance & Monitoring Column -->
+    <td valign="top" width="50%">
+      <h3>📈 Performance & Monitoring</h3>
+      <table>
+        <tr>
+          <th>k6</th>
+          <th>Grafana</th>
+          <th>Pytest</th>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/grafana/k6/main/assets/images/k6-logo.svg" width="60" height="60" alt="k6"/></td>
+          <td><img src="https://img.icons8.com/color/90/grafana.png" width="60" height="60" alt="Grafana"/></td>
+          <td><img src="https://img.icons8.com/color/90/python.png" width="60" height="60" alt="Pytest"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🛠 OS & Virtualization
 
 | Linux | Windows | Kali | Raspberry Pi | Red Hat |
