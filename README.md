@@ -22,25 +22,6 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
-
-## ⚙️ Tools & Technologies
-
-### 🔬 QA Automation
-- **Selenium**, **Appium**, **Postman**, **Playwright**
-
-### 🧪 Performance & Monitoring
-- **k6**, **Grafana**, **Pytest**
-
-### 🛠 OS & Virtualization
-- **Linux**, **Windows**, **Kali**, **Raspberry Pi OS**, **Red Hat**  
-- **Docker**, **VirtualBox**, **VMware**
-
-### 🔐 VAPT Tools
-- **Nmap**, **Burp Suite**, **Metasploit**
-
-### 🌐 Networking
-- **MikroTik**, **Wireshark**, **GNS3**, **Zabbix**
 
 ---
 # ⚙️ Tools & Technologies
@@ -53,7 +34,7 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 
 | Selenium | Appium | Postman | Playwright |
 |:--:|:--:|:--:|:--:|
-| ![Selenium](https://img.icons8.com/color/48/selenium-test-automation.png) | ![Appium](https://img.icons8.com/fluency/48/appium.png) | ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png) | ![Playwright](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-playwright-logo.png) |
+| ![Selenium](https://img.icons8.com/color/48/selenium-test-automation.png) | ![Appium](https://lms.techproeducation.com/pluginfile.php/4234/course/overviewfiles/appium.png) | ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png) | ![Playwright](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-playwright-logo.png) |
 | **Selenium** | **Appium** | **Postman** | **Playwright** |
 
 ---
