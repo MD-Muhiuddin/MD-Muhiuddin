@@ -98,7 +98,7 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 
 ---
 
-## 🧠 Coding & Cybersecurity
+## 👨‍💻 Coding & Cybersecurity
 
 - LeetCode: [muhiuddinanik](https://leetcode.com/muhiuddinanik/)  
 - Codeforces: [anik98](https://codeforces.com/profile/anik98)  
