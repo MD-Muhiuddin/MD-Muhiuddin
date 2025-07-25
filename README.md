@@ -43,6 +43,64 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 - **MikroTik**, **Wireshark**, **GNS3**, **Zabbix**
 
 ---
+# ⚙️ Tools & Technologies
+
+A curated overview of tools I use across QA automation, performance testing, OS virtualization, security testing, and networking.
+
+---
+
+## 🔬 QA Automation
+
+| Selenium | Appium | Postman | Playwright |
+|:--:|:--:|:--:|:--:|
+| ![Selenium](https://img.icons8.com/color/48/selenium-test-automation.png) | ![Appium](https://img.icons8.com/fluency/48/appium.png) | ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png) | ![Playwright](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-playwright-logo.png) |
+| **Selenium** | **Appium** | **Postman** | **Playwright** |
+
+---
+
+## 🧪 Performance & Monitoring
+
+| k6 | Grafana | Pytest |
+|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/grafana/k6/main/assets/images/k6-logo.svg" width="48"/> | ![Grafana](https://img.icons8.com/color/48/grafana.png) | ![Pytest](https://img.icons8.com/color/48/python.png) |
+| **k6** | **Grafana** | **Pytest** |
+
+---
+
+## 🛠 OS & Virtualization
+
+| Linux | Windows | Kali | Raspberry Pi | Red Hat |
+|:--:|:--:|:--:|:--:|:--:|
+| 🐧 | 🪟 | 🧨 | 🍓 | 🎩 |
+| **Linux** | **Windows** | **Kali Linux** | **Raspberry Pi OS** | **Red Hat** |
+
+| Docker | VirtualBox | VMware |
+|:--:|:--:|:--:|
+| 🐳 | 📦 | 🖥️ |
+| **Docker** | **VirtualBox** | **VMware** |
+
+---
+
+## 🔐 VAPT Tools
+
+| Nmap | Burp Suite | Metasploit |
+|:--:|:--:|:--:|
+| ![Nmap](https://img.icons8.com/external-flat-juicy-fish/48/external-nmap-flat-juicy-fish.png) | ![Burp Suite](https://img.icons8.com/color/48/burp-suite.png) | ![Metasploit](https://img.icons8.com/external-flaticons-flat-flat-icons/48/external-metasploit-flat-icons.png) |
+| **Nmap** | **Burp Suite** | **Metasploit** |
+
+---
+
+## 🌐 Networking
+
+| MikroTik | Wireshark | GNS3 | Zabbix |
+|:--:|:--:|:--:|:--:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/MikroTik_Logo.png" width="48"/> | ![Wireshark](https://img.icons8.com/color/48/wireshark.png) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/GNS3_logo_2014.svg/512px-GNS3_logo_2014.svg.png" width="48"/> | ![Zabbix](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-zabbix-logo.png) |
+| **MikroTik** | **Wireshark** | **GNS3** | **Zabbix** |
+
+---
+
+> 🧠 *Continuously adapting and upgrading my stack to stay future-ready.*
+---
 
 ## 🛠 My Projects
 
