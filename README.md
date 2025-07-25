@@ -91,13 +91,6 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 
 ---
 
-##  GitHub Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuHIUDDIn98&theme=dark&hide_border=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHIUDDIn98&theme=dark&hide_border=false&layout=compact)
-
----
-
 ##  Notes & Learning Resources
 
 -  [Mobile Automation with Appium](https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19)  
