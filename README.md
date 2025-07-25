@@ -45,47 +45,6 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 | <img src="https://miro.medium.com/v2/resize:fit:700/0*u073lMBaEQWkfzYz.jpeg" width="90" height="90" alt="Image">| ![Grafana](https://img.icons8.com/color/48/grafana.png) | ![Pytest](https://img.icons8.com/color/48/python.png) |
 
 ---
-<style>
-.flex-container {
-  display: flex;
-  justify-content: space-between;
-  gap: 40px;
-  flex-wrap: wrap;
-}
-
-.flex-box {
-  flex: 1;
-  min-width: 300px;
-}
-</style>
-
-<div class="flex-container">
-
-<!-- QA Automation Section -->
-<div class="flex-box">
-
-## 🔬 QA Automation
-
-| Selenium | Appium | Postman | Playwright |
-|:--:|:--:|:--:|:--:|
-| ![Selenium](https://img.icons8.com/color/48/selenium-test-automation.png) | <img src="https://lms.techproeducation.com/pluginfile.php/4234/course/overviewfiles/appium.png" width="80" height="80" alt="Appium"> | <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" width="90" height="90" alt="Postman Logo"> | <img src="https://api.nuget.org/v3-flatcontainer/microsoft.playwright/1.54.0/icon" width="80" height="80" alt="Playwright Icon"> |
-
-</div>
-
-<!-- Performance & Monitoring Section -->
-<div class="flex-box">
-
-## 🧪 Performance & Monitoring
-
-| k6 | Grafana | Pytest |
-|:--:|:--:|:--:|
-| <img src="https://miro.medium.com/v2/resize:fit:700/0*u073lMBaEQWkfzYz.jpeg" width="90" height="90" alt="k6"> | ![Grafana](https://img.icons8.com/color/48/grafana.png) | ![Pytest](https://img.icons8.com/color/48/python.png) |
-
-</div>
-
-</div>
-
----
 ## 🛠 OS & Virtualization
 
 | Linux | Windows | Kali | Raspberry Pi | Red Hat |
