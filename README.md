@@ -47,14 +47,13 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 ---
 ## 🛠 OS & Virtualization
 
-| Linux | Windows | Kali | Raspberry Pi | Red Hat |
-|:--:|:--:|:--:|:--:|:--:|
-| 🐧 | 🪟 | 🧨 | 🍓 | 🎩 |
-| **Linux** | **Windows** | **Kali Linux** | **Raspberry Pi OS** | **Red Hat** |
+| Linux | Windows | Kali | Raspberry Pi | Red Hat | Docker | VirtualBox | VMware |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 🐧 | 🪟 | 🧨 | 🍓 | 🎩 | 🐳 | 📦 | 🖥️ |
 
-| Docker | VirtualBox | VMware |
-|:--:|:--:|:--:|
-| 🐳 | 📦 | 🖥️ |
+
+
+
 | **Docker** | **VirtualBox** | **VMware** |
 
 ---
