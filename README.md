@@ -15,7 +15,7 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ---
 
-##  Languages & Tools
+## Programming Languages 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
