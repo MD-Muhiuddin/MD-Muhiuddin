@@ -1,10 +1,10 @@
-# 👨‍💻 MD Muhiuddin — Software QA Engineer
+#  MD Muhiuddin — Software QA Engineer
 
 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in delivering high-quality **web and mobile applications** through **manual + automation testing**, strong debugging, and problem-solving skills. I focus on performance, UX, and system security.
 
 ---
 
-## 🧩 Core Skills
+##  Core Skills
 
 -  Mobile & Web Automation (Native + Hybrid)  
 -  API Testing (Manual + Automation)  
@@ -76,7 +76,6 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 - Codeforces: [anik98](https://codeforces.com/profile/anik98)  
 - Code360: [Muhiuddin](https://www.naukri.com/code360/profile/Muhiuddin)  
 - TryHackMe: [falcon.anik2](https://tryhackme.com/p/falcon.anik2)  
-  ![TryHackMe Stats](https://tryhackme-images.s3.amazonaws.com/user/falcon.anik2.png)
 
 ---
 
