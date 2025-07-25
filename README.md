@@ -34,9 +34,8 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 
 | Selenium | Appium | Postman | Playwright |
 |:--:|:--:|:--:|:--:|
-| ![Selenium](https://img.icons8.com/color/48/selenium-test-automation.png) | <img src="https://lms.techproeducation.com/pluginfile.php/4234/course/overviewfiles/appium.png" width="30" height="20" alt="appium">
+| ![Selenium](https://img.icons8.com/color/48/selenium-test-automation.png) | <img src="https://lms.techproeducation.com/pluginfile.php/4234/course/overviewfiles/appium.png" width="80" height="40" alt="appium">
  | ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png) | ![Playwright](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-playwright-logo.png) |
-| **Selenium** | **Appium** | **Postman** | **Playwright** |
 
 ---
 
