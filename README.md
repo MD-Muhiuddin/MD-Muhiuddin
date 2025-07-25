@@ -42,8 +42,8 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 
 | k6 | Grafana | Pytest |
 |:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/grafana/k6/main/assets/images/k6-logo.svg" width="48"/> | ![Grafana](https://img.icons8.com/color/48/grafana.png) | ![Pytest](https://img.icons8.com/color/48/python.png) |
-| **k6** | **Grafana** | **Pytest** |
+| <img src="https://miro.medium.com/v2/resize:fit:700/0*u073lMBaEQWkfzYz.jpeg" width="90" height="90" alt="Image">
+ | ![Grafana](https://img.icons8.com/color/48/grafana.png) | ![Pytest](https://img.icons8.com/color/48/python.png) |
 
 ---
 
