@@ -9,7 +9,7 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 -  Mobile & Web Automation (Native + Hybrid)  
 -  API Testing (Manual + Automation)  
 -  VAPT on Web & Mobile Applications  
--  Networking Basics & Recon Tools  
+-  Networking  & Cybersecurity  
 -  Strong Logical Thinking & Debugging
 -  Project Management
 
