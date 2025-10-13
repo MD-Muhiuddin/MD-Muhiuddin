@@ -77,15 +77,6 @@ A curated overview of tools I use across QA automation, performance testing, OS 
 > 🧠 *Continuously adapting and upgrading my stack to stay future-ready.*
 ---
 
-## 🛠 My Projects
-
-### 🔍 Recon & Scripting
-| Project | Description |
-|--------|-------------|
-| [Network Scanner](https://github.com/MuHIUDDIn98/Py_Networking) | Scan live hosts using Scapy |
-| [Subdomain Enum](https://github.com/MuHIUDDIn98/SubDomainEnamuration.git) | Subdomain brute-force tool |
-| [IP Geolocation](https://github.com/MuHIUDDIn98/IP_Geolocation_finder.git) | IP-based geolocation finder |
-| [Image Resizer](https://github.com/MuHIUDDIn98/Image_resizer) | Python script to resize and convert images |
 
 ---
 
