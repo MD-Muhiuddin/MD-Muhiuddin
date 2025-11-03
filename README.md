@@ -1,4 +1,4 @@
-#  MD Muhiuddin — Software QA Engineer
+#  MD Muhiuddin 
 
 Passionate **Software Quality Assurance (SQA) Engineer** with expertise in delivering high-quality **web and mobile applications** through **manual + automation testing**, strong debugging, and problem-solving skills. I focus on performance, UX, and system security.
 
@@ -6,8 +6,7 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ##  Core Skills
 
--  Mobile & Web Automation (Native + Hybrid)  
--  API Testing (Manual + Automation)  
+-  Mobile & Web Application ,API Testing (Manual + Automation)  
 -  VAPT on Web & Mobile Applications  
 -  Networking  & Cybersecurity  
 -  Strong Logical Thinking & Debugging
