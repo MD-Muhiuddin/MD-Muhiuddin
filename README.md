@@ -14,22 +14,6 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ---
 
-## Programming Languages 
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-
----
-
-##  Notes & Learning Resources
-
--  [Mobile Automation with Appium](https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19)  
--  [Linux Essentials](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
-
----
-
 ## 👨‍💻 Coding & Cybersecurity
 
 - LeetCode: [muhiuddinanik](https://leetcode.com/muhiuddinanik/)  
