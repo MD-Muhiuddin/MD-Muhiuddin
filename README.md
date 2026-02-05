@@ -23,10 +23,10 @@ Passionate **Software Quality Assurance (SQA) Engineer** with expertise in deliv
 
 ---
 
-##  Quotes I Believe In
+##  Mind Set
 
 > “Programming isn’t about knowing everything — it’s about thinking clearly and solving problems.”  
-> “Tutorials are a starting point. Real growth comes from debugging, system design, and building.”
+> “Real growth comes from debugging, system design, and building.”
 
 ---
 
